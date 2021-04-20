@@ -7,6 +7,7 @@ const App = (): ReactElement => {
       <Button/>
       <Input/>
       <div>내용 수정</div>
+      <div>bugfix</div>
     </div>
   );
 };
